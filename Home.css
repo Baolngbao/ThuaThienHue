@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/pexelsphoto3978928.jpeg");
+  background-image: url("./images/Ngo-Mon-03.jpeg");
   background-position: 50% 50%;
 }
 
@@ -10,15 +10,15 @@
 .u-section-1 .u-text-1 {
   font-size: 9.375rem;
   font-weight: 900;
-  margin: 100px 0 0;
+  margin: 90px 0 0;
 }
 
 .u-section-1 .u-text-2 {
   text-transform: uppercase;
   font-weight: 100;
-  letter-spacing: 9px;
-  font-size: 1.875rem;
-  margin: 20px 524px 60px 0;
+  letter-spacing: 5px;
+  font-size: 1rem;
+  margin: 20px 524px 60px 20px;
 }
 
 @media (max-width: 1199px) {
@@ -228,7 +228,7 @@
 
 .u-section-3 .u-image-5 {
   min-height: 344px;
-  background-image: url("images/pexelsphoto1679772.jpg");
+  background-image: url("images/Khamphahue-Song-Huong-xu-hue-1.jpeg");
   background-position: 50% 50%;
 }
 
@@ -745,7 +745,7 @@
 }
 
 .u-section-5 .u-image-1 {
-  background-image: url("images/pexelsphoto1680140.jpg");
+  background-image: url("images/1.jpeg");
   background-position: 50% 50%;
   min-height: 382px;
 }
@@ -755,7 +755,7 @@
 }
 
 .u-section-5 .u-image-2 {
-  background-image: url("images/pexelsphoto1909331.jpeg");
+  background-image: url("images/2.jpeg");
   background-position: 50% 50%;
   min-height: 382px;
 }
@@ -765,7 +765,7 @@
 }
 
 .u-section-5 .u-image-3 {
-  background-image: url("images/pexelsphoto3363359.jpg");
+  background-image: url("images/3.jpeg");
   background-position: 50% 50%;
   min-height: 382px;
 }
@@ -775,7 +775,7 @@
 }
 
 .u-section-5 .u-image-4 {
-  background-image: url("images/pexelsphoto3494648.jpg");
+  background-image: url("images/4.jpeg");
   background-position: 50% 50%;
   min-height: 382px;
 }
